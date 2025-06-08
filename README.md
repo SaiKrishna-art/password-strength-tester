@@ -1,4 +1,4 @@
----Password Strength Analyzer---
+#Password Strength Analyzer
 
 A cyber security tool that evaluates password strength using:
 - Entropy calculation
