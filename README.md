@@ -1,4 +1,5 @@
----Password Strength Analyzer---
+              ---Password Strength Analyzer---
+
 A cyber security tool that evaluates password strength using:
 - Entropy calculation
 - Breach database checks via Have I Been pwned API
@@ -10,20 +11,17 @@ A cyber security tool that evaluates password strength using:
 - JSON report export
 - CLI and GUI interfaces!
   ## Installation
-'''
 git clone https://github.com/yourusername/password-strength-tester
 
 cd password-strength-tester
 
 pip install -r requirements.txt
-'''
   ## Usage
-'''
   # Command Line Interface
 python src/cli_interface.py
   # Graphical Interface
 python src/gui_interface.py
-'''
+
   ## Security Considerations
 **Important:** This tool processes passwords locally and:
 - Never stores passwords
