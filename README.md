@@ -12,7 +12,9 @@ A cyber security tool that evaluates password strength using:
   ## Installation
 '''
 git clone https://github.com/yourusername/password-strength-tester
+
 cd password-strength-tester
+
 pip install -r requirements.txt
 '''
   ## Usage
